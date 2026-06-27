@@ -1,4 +1,4 @@
-# Introdução a Algoritmos
+# Algoritmos e linguagens de programação
 
 Um computador é um dispositivo eletrônico projetado para receber dados, processá los e produzir resultados por meio de um dispositivo de saída. Para realizar esse processamento, o computador depende de duas partes distintas que trabalham em conjunto, hardware e software. O hardware corresponde à parte física do computador, como memória, processador e placa de vídeo. O software é composto por programas, que representam a codificação de um ou mais algoritmos em uma ou mais linguagens de programação.
 
