@@ -1,29 +1,4 @@
 # Introdução a Algoritmos
 
-Esta seção apresenta os conceitos fundamentais de algoritmos, servindo como base para estudos mais avançados em estruturas de dados, análise de complexidade e implementação prática.
-
-## 📌 O que é um algoritmo?
-Um algoritmo é uma sequência finita de passos bem definidos que resolve um problema ou executa uma tarefa.
-
-Exemplos comuns:
-- Calcular a média de números
-- Ordenar uma lista
-- Encontrar o maior valor em um conjunto
-- Determinar se um número é par ou ímpar
-
-## 🧠 Características de um bom algoritmo
-- **Clareza**: cada passo deve ser simples e objetivo  
-- **Finitude**: deve terminar após um número limitado de etapas  
-- **Entrada**: recebe dados  
-- **Saída**: produz resultados  
-- **Eficiência**: usa bem tempo e memória  
-
-## 📝 Representações comuns
-- **Pseudocódigo**  
-- **Fluxogramas**  
-- **Descrição em linguagem natural**  
-
-## 📂 Próximos passos
-- Exemplos de algoritmos simples  
-- Introdução a estruturas de dados  
-- Noções iniciais de complexidade  
+Um computador é um dispositivo eletrônico projetado para receber dados, processá los e produzir resultados por meio de um dispositivo de saída. Para realizar esse processamento, o computador depende de duas partes distintas que trabalham em conjunto, hardware e software. O hardware corresponde à parte física do computador, como memória, processador e placa de vídeo. O software é composto por programas, que representam a codificação de um ou mais algoritmos em uma ou mais linguagens de programação.
+Mas o que são algoritmos e linguagens de programação? Para responder a essa pergunta, precisamos entender um pouco sobre o funcionamento do computador. Quando usamos dispositivos de entrada, como teclado ou mouse, o computador converte cada ação em bits, ou seja, sequências de 0s e 1s que formam a chamada linguagem binária. Para o hardware, palavras e conceitos abstratos não existem. O processador é um circuito com bilhões de transistores que reconhecem exclusivamente dois estados elétricos, ligado (1) ou desligado (0). Todo o processamento interno acontece sobre esses dados binários, o que torna impossível para nós, humanos, compreendermos diretamente essa forma de comunicação. Por isso precisamos das linguagens de programação; elas atuam como "intérpretes", traduzindo nossas instruções em comandos que o computador executa e permitindo uma interação prática e intuitiva com a máquina. Algoritmos são exatamente essas instruções, uma sequência finita e bem estruturada de passos para chegar a um objetivo, como uma receita de bolo.
